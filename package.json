@@ -2,7 +2,7 @@
     "name": "theme-solarized-obsidian",
     "displayName": "Solarized Obsidian",
     "description": "Solarized dark Theme variant",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "superzadeh",
     "engines": {
         "vscode": "^1.0.0"
@@ -15,7 +15,7 @@
             {
                 "label": "Solarized Obsidian",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Solarized-dark.tmTheme"
+                "path": "./themes/Solarized-Obsidian.tmTheme"
             }
         ]
     }

@@ -98,7 +98,6 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
 				<key>foreground</key>
 				<string>#58c2e5</string>
 			</dict>
@@ -135,7 +134,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#afc800</string>
+				<string>#859900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -157,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#58c2e5</string>
+				<string>#268bd2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +273,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#afc800</string>
+				<string>#859900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -453,5 +452,7 @@
 			</dict>
 		</dict>
 	</array>
+	<key>uuid</key>
+	<string>F930B0BF-AA03-4232-A30F-CEF749FF8E72</string>
 </dict>
 </plist>
