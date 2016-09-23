@@ -2,7 +2,7 @@
     "name": "theme-solarized-obsidian",
     "displayName": "Solarized Obsidian",
     "description": "Solarized dark Theme variant",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "superzadeh",
     "engines": {
         "vscode": "^1.0.0"
