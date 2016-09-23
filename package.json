@@ -1,8 +1,8 @@
 {
     "name": "theme-solarized-obsidian",
     "displayName": "Solarized Obsidian",
-    "description": "Solarized dark Theme variant",
-    "version": "0.0.7",
+    "description": "Solarized Dark Theme variant",
+    "version": "0.0.8",
     "publisher": "superzadeh",
     "engines": {
         "vscode": "^1.0.0"
@@ -10,6 +10,12 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/superzadeh/theme-solarized-obsidian",
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/superzadeh/theme-solarized-obsidian"
+    },
     "contributes": {
         "themes": [
             {
